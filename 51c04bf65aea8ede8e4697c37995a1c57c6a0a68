@@ -1,0 +1,8 @@
+Code-Review+2: yingwang <ying.wang11@hp.com>
+Verified+2: yingwang <ying.wang11@hp.com>
+Workflow+1: yingwang <ying.wang11@hp.com>
+Submitted-by: yingwang <ying.wang11@hp.com>
+Submitted-at: Tue, 10 Nov 2015 22:32:39 +0000
+Reviewed-on: https://review.openswitch.net/2255
+Project: infra/puppet-gerrit
+Branch: refs/heads/master
